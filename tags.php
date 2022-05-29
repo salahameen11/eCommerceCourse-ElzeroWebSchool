@@ -28,6 +28,7 @@
 		}
 		?>
 	</div>
+	<div></div>
 </div>
 
 <?php include $tpl . 'footer.php'; ?>
